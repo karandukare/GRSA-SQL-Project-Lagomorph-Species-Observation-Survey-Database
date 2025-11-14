@@ -68,4 +68,4 @@ Wildlife researchers and park managers didn't have a unified view of data to und
 - LinkedIn: https://www.linkedin.com/in/karandukare/
 - GitHub: https://github.com/karandukare
 - Email: karandukare23@gamil.com
-- Portfolio: [your portfolio link-optional]
+- Portfolio: https://karan-dukare-data-analys-yz7rj1t.gamma.site/ 
